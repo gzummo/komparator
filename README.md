@@ -3,7 +3,7 @@
 ## Info
 
 Komparator will find a cheaper Amazon product for you.
-All it needs is the URL of the product you want and a [client](https://github.com/SneakySoySauce/website-komparator) to send the result to.
+All it needs is the URL of the product you want and a [client](https://github.com/gzummo/website-komparator) to send the result to.
 
 ## Installation
 
